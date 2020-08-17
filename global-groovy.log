@@ -1,0 +1,18 @@
+2020-08-10 11:02:05,608 INFO  [log] 2 and 3
+2020-08-10 11:02:05,625 INFO  [log] f0rf13pxtxp7mftwc23rq6e52yvmi5um
+2020-08-10 11:02:05,640 INFO  [log] SKU01012
+2020-08-10 11:02:05,642 INFO  [log] Aditis-OnePlus7t phone
+2020-08-10 11:02:08,168 INFO  [log] 1
+2020-08-10 11:02:08,180 INFO  [log] 1
+2020-08-10 11:02:08,235 INFO  [log] Product name is : Aditis-OnePlus7t phone
+2020-08-10 11:02:08,238 INFO  [log] Price of product is : 50000
+2020-08-10 11:02:20,564 INFO  [log] 2 and 3
+2020-08-10 11:02:20,579 INFO  [log] f0rf13pxtxp7mftwc23rq6e52yvmi5um
+2020-08-10 11:02:20,594 INFO  [log] SKU01012
+2020-08-10 11:02:20,610 INFO  [log] Aditis-OnePlus7t phone
+2020-08-10 11:02:20,764 INFO  [log] 1
+2020-08-10 11:02:20,766 INFO  [log] 1
+2020-08-10 11:02:20,803 INFO  [log] Product name is : Aditis-OnePlus7t phone
+2020-08-10 11:02:20,823 INFO  [log] Price of product is : 50000
+2020-08-10 11:02:27,717 INFO  [log] Status: FINISHED, time taken for TestCase was: 7739 ms
+2020-08-10 11:02:27,736 INFO  [log] Number of test steps which ran: 10
